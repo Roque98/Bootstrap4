@@ -1,0 +1,39 @@
+body{
+	background: #E8E8E8;
+	color:#f2f2f2;
+}
+
+header{
+	background: #38B52E;
+	margin-bottom: 20px;
+	padding: 20px;
+}
+
+section{
+	margin-bottom: 20px; 
+}
+
+article{
+	background: #FFFFFF;
+	color:#000000;
+	padding: 20px;
+}
+
+aside{
+	background: #09CCA0;
+	color: #1243B3;
+	padding: 60px 0px;
+}
+
+.widgets>.columna{
+	background: #2364DB;
+}
+
+.widgets{
+	margin-bottom: 20px;
+}
+
+footer{
+	background: #4D3F3F;
+	padding: 10px;
+}
